@@ -1,0 +1,16 @@
+# Python virtual environment
+venv/
+
+# Jupyter notebook auto-save folder
+.ipynb_checkpoints/
+
+# Python bytecode cache
+__pycache__/
+*.pyc
+
+# macOS junk files
+.DS_Store
+
+# IDE / editor files (in case you ever use VS Code, PyCharm, etc.)
+.vscode/
+.idea/
