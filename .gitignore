@@ -14,3 +14,6 @@ __pycache__/
 # IDE / editor files (in case you ever use VS Code, PyCharm, etc.)
 .vscode/
 .idea/
+
+# Graded coursework — Coursera honor code
+algorithms-for-dna-sequencing-jhu/homework_week_*_graded/

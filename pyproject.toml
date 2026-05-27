@@ -1,0 +1,10 @@
+[tool.black]
+line-length = 88
+extend-exclude = '''
+/(
+    \.venv
+  | venv
+  | __pycache__
+  | bm_preproc\.py
+)/
+'''
