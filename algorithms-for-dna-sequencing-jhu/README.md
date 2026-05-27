@@ -11,13 +11,29 @@ The course covers algorithms for processing DNA sequencing data — exact and ap
 
 ## Notebooks
 
-| Notebook | Topic |
-|----------|-------|
-| `BoyerMoore.ipynb` | My implementation of Boyer-Moore exact string matching from scratch — bad character rule, good suffix rule (cases A/B/C), and match-skip combined into a full algorithm |
-| `boyer_moore_Lecturer_code.ipynb` | Dr. Langmead's reference `BoyerMoore` class, kept separately for comparison with my implementation |
-| `k-mer_indexing.ipynb` | Dictionary-based k-mer index — building the index, query with lookup-then-verify |
-| `k-mer_indexing_sorted_list.ipynb` | Sorted-list k-mer index using `bisect` for binary search lookup |
+| File | Topic |
+|------|-------|
+| `k-mer_indexing.ipynb` | k-mer indexing (dictionary and sorted-list with `bisect`) |
+| `bm_preproc.py` | Dr. Langmead's reference `BoyerMoore` class (preprocessed bad-character and good-suffix tables) |
+| `approximate_matching.ipynb` | Naive approximate matching |
+| `edit_distance.ipynb` | Edit distance — recursive formulation |
+| `edit_distance_dp.ipynb` | Edit distance — dynamic programming |
+| `global_alignment.ipynb` | Global alignment with weighted edit distance |
+| `overlap_method.ipynb` | Pairwise overlap detection between reads |
+| `overlap_graph.ipynb` | Overlap graph construction |
+| `shortest_super_string.ipynb` | Shortest superstring — brute-force exploration |
+| `shortest_common_super_string.ipynb` | Shortest common superstring |
+| `scs_greedy_algorithm.ipynb` | Greedy algorithm for shortest common superstring |
+| `de_bruijn_graph.ipynb` | De Bruijn graph construction from k-mers |
 
 ## Note on academic integrity
 
 These notebooks contain only material from lecture videos and publicly available course content. Graded programming assignments and quiz solutions are deliberately not committed to this repository while I am enrolled in the course. See the [main README](../README.md) for full details.
+
+---
+
+## Course certificate
+
+Completed May 27, 2026. [Verify on Coursera](https://coursera.org/verify/CQ6VXVD300AW).
+
+<img src="certificate.png" alt="Algorithms for DNA Sequencing certificate" width="700">

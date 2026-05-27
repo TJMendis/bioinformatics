@@ -20,9 +20,7 @@ More folders will be added as I work through additional material — the JHU Bio
 
 ## Certificates
 
-- **Algorithms for DNA Sequencing** — Johns Hopkins University via Coursera, May 2026. [Verify](https://coursera.org/verify/CQ6VXVD300AW).
-
-<img src="certificates/algorithms_for_dna_sequencing.png" alt="Algorithms for DNA Sequencing certificate" width="600">
+- **Algorithms for DNA Sequencing** — Johns Hopkins University via Coursera, May 2026. [Verify](https://coursera.org/verify/CQ6VXVD300AW). [See certificate](algorithms-for-dna-sequencing-jhu/#course-certificate).
 
 ## Attribution and academic integrity
 
