@@ -18,6 +18,12 @@ Personal projects — research paper reproductions, original tools, side experim
 
 More folders will be added as I work through additional material — the JHU Bioconductor course, MOOCs from other universities, textbooks like *Bioinformatics Algorithms* (Compeau & Pevzner), and original projects.
 
+## Certificates
+
+- **Algorithms for DNA Sequencing** — Johns Hopkins University via Coursera, May 2026. [Verify](https://coursera.org/verify/CQ6VXVD300AW).
+
+<img src="certificates/algorithms_for_dna_sequencing.png" alt="Algorithms for DNA Sequencing certificate" width="600">
+
 ## Attribution and academic integrity
 
 The course material I work from is openly available pedagogical content authored by the respective instructors, and all course-derived work in this repository is properly attributed to the source. In particular:
