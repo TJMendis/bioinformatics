@@ -17,3 +17,38 @@ __pycache__/
 
 # Graded coursework — Coursera honor code
 algorithms-for-dna-sequencing-jhu/homework_week_*_graded/
+*.tar
+# Bioinformatics data files (reproducibly downloadable, never commit)
+*.bam
+*.sam
+*.bai
+*.cram
+*.fasta
+*.fa
+*.fna
+*.fastq
+*.fq
+*.fastq.gz
+*.fq.gz
+*.vcf
+*.vcf.gz
+*.bcf
+*.gtf
+*.gff
+*.gff3
+*.bed
+*.bedgraph
+*.bigwig
+*.bw
+*.wig
+*.genome
+*.genes
+*.samples
+*.hdrs
+*.fai
+*.dict
+
+# Course data folders (entire data trees)
+**/work/Plants/
+**/work/samtools_demo/
+**/work/bedtools_demo/
