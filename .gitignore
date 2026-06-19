@@ -52,3 +52,12 @@ algorithms-for-dna-sequencing-jhu/homework_week_*_graded/
 **/work/Plants/
 **/work/samtools_demo/
 **/work/bedtools_demo/
+.Rproj.user
+
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+# Graded homework, any course
+**/graded_hw_*/
